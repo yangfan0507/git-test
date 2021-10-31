@@ -9,6 +9,7 @@ public class gitTest {
         System.out.println("hello git!");
         System.out.println("hello git!");
         System.out.println("changed in vim,hello git!");
+        System.out.println("changed d");
     }
 
 }
