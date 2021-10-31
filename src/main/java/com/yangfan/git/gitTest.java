@@ -12,6 +12,7 @@ public class gitTest {
         System.out.println("changed d");
         System.out.println("hello git!");
         System.out.println("changed!");
+        System.out.println("push test");
     }
 
 }
